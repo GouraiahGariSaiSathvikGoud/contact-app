@@ -25,4 +25,3 @@ dist-ssr
 
 # Environment files (secrets). .env.development is safe and stays committed.
 .env
-.env.production
